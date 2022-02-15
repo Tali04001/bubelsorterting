@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\bubelsorterting-main\bin\Debug\net5.0\Imorgon bubelsort.exe
+C:\Users\Admin\Desktop\bubelsorterting-main\bin\Debug\net5.0\Imorgon bubelsort.deps.json
+C:\Users\Admin\Desktop\bubelsorterting-main\bin\Debug\net5.0\Imorgon bubelsort.runtimeconfig.json
+C:\Users\Admin\Desktop\bubelsorterting-main\bin\Debug\net5.0\Imorgon bubelsort.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\bubelsorterting-main\bin\Debug\net5.0\Imorgon bubelsort.dll
+C:\Users\Admin\Desktop\bubelsorterting-main\bin\Debug\net5.0\ref\Imorgon bubelsort.dll
+C:\Users\Admin\Desktop\bubelsorterting-main\bin\Debug\net5.0\Imorgon bubelsort.pdb
+C:\Users\Admin\Desktop\bubelsorterting-main\obj\Debug\net5.0\Imorgon bubelsort.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\bubelsorterting-main\obj\Debug\net5.0\Imorgon bubelsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\bubelsorterting-main\obj\Debug\net5.0\Imorgon bubelsort.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\bubelsorterting-main\obj\Debug\net5.0\Imorgon bubelsort.AssemblyInfo.cs
+C:\Users\Admin\Desktop\bubelsorterting-main\obj\Debug\net5.0\Imorgon bubelsort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\bubelsorterting-main\obj\Debug\net5.0\Imorgon bubelsort.dll
+C:\Users\Admin\Desktop\bubelsorterting-main\obj\Debug\net5.0\ref\Imorgon bubelsort.dll
+C:\Users\Admin\Desktop\bubelsorterting-main\obj\Debug\net5.0\Imorgon bubelsort.pdb
+C:\Users\Admin\Desktop\bubelsorterting-main\obj\Debug\net5.0\Imorgon bubelsort.genruntimeconfig.cache

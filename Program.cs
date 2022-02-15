@@ -15,7 +15,7 @@ namespace Imorgon_bubelsort
                 {
                     if (Imorgon[j] > Imorgon[j + 1])
                     {
-                        needsSorting = true;
+                        needsSorting = true; //kollar om det är sorterat
                         int tmp = Imorgon[j +1];
                         Imorgon[j + 1] = Imorgon[j];
                         Imorgon[j] = tmp;
@@ -25,9 +25,9 @@ namespace Imorgon_bubelsort
             }
         }
  
-        static int[] GenerateImorgon(int size)
+        static int[] GenerateImorgon(int size) //refererar
         {
-            Random rnd = new Random();
+            Random rnd = new Random(); // skapar slumpad data idag tänk på det idag.
             int[] Imorgon = new int[size];
  
             for (int i = 0; i < Imorgon.Length; i++)
@@ -38,7 +38,7 @@ namespace Imorgon_bubelsort
  
         static void Main(string[] args)
         {
-            int[] sizes = new int[] { 1000, 2000, 4000, 8000 };
+            int[] sizes = new int[] { 1000, 2000, 4000, 8000 };//data :))))
  
             for (int i = 0; i < sizes.Length; i++)
             {
@@ -49,7 +49,7 @@ namespace Imorgon_bubelsort
                 DateTime startkelb = DateTime.Now;
                 BubbleSort(Imorgon);
                 TimeSpan deltaTid = DateTime.Now - startkelb;
-                Console.WriteLine("Det tog {0:0.00} millisekunder.\n", deltaTid.TotalMilliseconds);
+                Console.WriteLine("Det tog {0:0.00} millisekunder.\n", deltaTid.TotalMilliseconds);//berättar tid
  
             }
         }
